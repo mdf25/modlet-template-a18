@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<ModInfo>
-		<Name value="Let's Make A Modlet"/>
-		<Description value="Does some cool stuff."/>
+		<Name value="Modlet Template"/>
+		<Description value="Description."/>
 		<Author value="MaxFox Gaming"/>
 		<Version value="1.0"/>
 	</ModInfo>
