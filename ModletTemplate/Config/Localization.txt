@@ -1,1 +1,2 @@
-Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+{my_key},{xml_file},{type_of_object},{true/false/null},{true/false/null},"{Localized_Name_Eng}"
